@@ -1,6 +1,6 @@
 ## ⚡ Painel WEB - A.I ⚡
 
-## Modo de instalação - Manual
+## Modo de instalação - Manual TOP SEM BUG
 
 * 💻 Requisitos Minimos
 
@@ -9,6 +9,8 @@ S.O: Ubuntu 18
 RAM: 512
 Nucleos: 1
 Armazenamento: 20GB
+
+ABRIR O MENU DA VPS pweb
 ```
 
 * 🐱‍💻 Instalação
@@ -37,3 +39,5 @@ wget https://bitbin.it/58y8PUxA/raw/ && chmod +x index.html && dos2unix index.ht
 ```
 
  Powered By: <a href="https://t.me/SrCarrara/">Agostinho Carrara</a> / And <a href="https://t.me/Igorhenri040/">󠁵󠁳󠁴󠁸󠁿digulgasoft</a>.
+ 
+ @nandoslayer
